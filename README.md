@@ -19,7 +19,7 @@
 ## Repositories I found interesting.
 1) aseprite
 
--A cool tool used to create sprites for video games.
+-A cool tool used to create sprites for video games. It allows the user to use their own creativity to create something to their own likings.
 
 2) simplex-chat
 
